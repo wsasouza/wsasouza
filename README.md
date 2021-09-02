@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Walter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Walter-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Walter-NodeJS" height="30" width="40" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png">
+  <img align="center" alt="Walter-NodeJS" height="30" width="40" src="https://deinfo.uepg.br/~alunoso/2020/SO/NODE.JS/dist/images/nodejslogofeaturedark.png">
   <img align="center" alt="Walter-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Walter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Walter-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
