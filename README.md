@@ -28,7 +28,7 @@ Hi there, I'm Walter S. A. Souza  👋, I'm a Fullstack developer passionate abo
 ![image](https://img.shields.io/badge/ReactJS-5ed3f3?style=for-the-badge&logo=react&logoColor=black)
 ![image](https://img.shields.io/badge/React_Native-4169E1?style=for-the-badge&logo=react&logoColor=white)
 
-**I am learning:**
+**I'm learning:**
 
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
