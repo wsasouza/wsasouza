@@ -43,8 +43,7 @@ Hi there, I'm Walter S. A. Souza  👋, I'm a Fullstack developer passionate abo
 ![image](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform&logoColor=white)
 ![image](https://img.shields.io/badge/adonisjs-5a45ff?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
-![image](https://img.shields.io/badge/aws-dd6b10?style=for-the-badge&logo=amazon&logoColor=white)
-![image](https://img.shields.io/badge/kubernets-3069de?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 <p align="justify">
 
