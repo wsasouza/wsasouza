@@ -36,10 +36,10 @@ Hi there, I'm Walter S. A. Souza  👋, I'm a Fullstack developer passionate abo
 ![image](https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/expo-4169E1?style=for-the-badge&logo=expo&logoColor=black)
+![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
 
 **I'm interested:**
-
-![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/adonisjs-5a45ff?style=for-the-badge&logo=terraform&logoColor=white)
 ![image](https://img.shields.io/badge/adonisjs-5a45ff?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![image](https://img.shields.io/badge/cypress-23272c?style=for-the-badge&logo=cypress&logoColor=white)
 
