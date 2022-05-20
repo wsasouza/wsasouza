@@ -37,7 +37,7 @@ Hi there, I'm Walter S. A. Souza  👋, I'm a Fullstack developer passionate abo
 ![image](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/expo-4169E1?style=for-the-badge&logo=expo&logoColor=black)
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
-![image](https://img.shields.io/badge/elixir-de33a6?style=for-the-badge&logo=elixir&logoColor=white)
+![image](https://img.shields.io/badge/elixir-9903FA?style=for-the-badge&logo=elixir&logoColor=white)
 
 **I'm interested:**
  
