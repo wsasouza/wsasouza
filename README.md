@@ -1,6 +1,7 @@
 # Walter Santos de Andrade Souza :computer:
 
-Hi there, I'm Walter S. A. Souza  👋, I'm a Fullstack developer passionate about technology. My main language is Javascript and in this repository you will find several projects with HTML, CSS, Javascript, Node.js, ReactJS and React-Native.
+Hi there, I'm Walter S. A. Souza  👋.
+I'm a Fullstack developer passionate about technology. My main language is Javascript and in this repository you will find several projects with HTML, CSS, Javascript, Node.js, ReactJS and React-Native.
  
  <div> 
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
