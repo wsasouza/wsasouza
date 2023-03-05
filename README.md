@@ -4,9 +4,9 @@ Hi there, I'm Walter S. A. Souza  👋.
 I'm a Fullstack developer passionate about technology. My main language is Javascript and in this repository you will find several projects with HTML, CSS, Javascript, Typecript, Node.js, ReactJS and React-Native. 
 I'm just getting started with Go, but it's not a priority yet.
 
-Theory is when you know everything, but nothing works.
-Practice is when you don't know anything, yet everything works.
-In programming we combine theory and practice, nothing works, and we don't know why.
+" Theory is when you know everything, but nothing works. 
+  Practice is when you don't know anything, yet everything works.
+  In programming we combine theory and practice, nothing works, and we don't know why. "
  
  <div> 
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
