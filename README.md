@@ -43,7 +43,7 @@ In programming we combine theory and practice, nothing works, and we don't know 
 ![image](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/expo-4169E1?style=for-the-badge&logo=expo&logoColor=black)
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
-![image](https://img.shields.io/badge/golang-de33a6?style=for-the-badge&logo=golangl&logoColor=white)
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
 
 
 **I'm interested:**
