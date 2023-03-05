@@ -40,6 +40,8 @@ I'm just getting started with Go, but it's not a priority yet.
  
 
 **I'm learning:**
+  
+  
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
@@ -51,6 +53,8 @@ I'm just getting started with Go, but it's not a priority yet.
 
 
 **I'm interested:**
+  
+  
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
 ![image](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform&logoColor=white)
 ![image](https://img.shields.io/badge/adonisjs-5a45ff?style=for-the-badge&logo=adonisjs&logoColor=white)
