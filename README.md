@@ -1,7 +1,12 @@
 # Walter Santos de Andrade Souza :computer:
 
 Hi there, I'm Walter S. A. Souza  👋.
-I'm a Fullstack developer passionate about technology. My main language is Javascript and in this repository you will find several projects with HTML, CSS, Javascript, Node.js, ReactJS and React-Native.
+I'm a Fullstack developer passionate about technology. My main language is Javascript and in this repository you will find several projects with HTML, CSS, Javascript, Typecript, Node.js, ReactJS and React-Native. 
+I'm just getting started with Go, but it's not a priority yet.
+
+Theory is when you know everything, but nothing works.
+Practice is when you don't know anything, yet everything works.
+In programming we combine theory and practice, nothing works, and we don't know why.
  
  <div> 
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -38,6 +43,7 @@ I'm a Fullstack developer passionate about technology. My main language is Javas
 ![image](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/expo-4169E1?style=for-the-badge&logo=expo&logoColor=black)
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/golang-de33a6?style=for-the-badge&logo=golangl&logoColor=white)
 
 
 **I'm interested:**
