@@ -37,6 +37,8 @@ I'm just getting started with Go, but it's not a priority yet.
 ![image](https://img.shields.io/badge/React_Native-4169E1?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/expo-4169E1?style=for-the-badge&logo=expo&logoColor=black)
 ![image](https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+
  
 
 **I'm learning:**
