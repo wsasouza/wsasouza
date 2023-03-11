@@ -7,9 +7,10 @@ I'm just getting started with Go, but it's not a priority yet.
 " Theory is when you know everything, but nothing works. 
   Practice is when you don't know anything, yet everything works.
   In programming we combine theory and practice, nothing works, and we don't know why. "
+  
  
  <div> 
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7288DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:wsasouza@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%ff8c00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/waltersasouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
