@@ -42,7 +42,7 @@ I'm just getting started with Go, but it's not a priority yet.
 
  
 
-**I'm learning:**
+**I am learning:**
   
   
 ![image](https://img.shields.io/badge/mongodb-10aa50?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,7 +55,7 @@ I'm just getting started with Go, but it's not a priority yet.
 
 
 
-**I'm interested:**
+**I am interested:**
   
   
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
